@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrinityDesafio</string>
+    <string name="app_title">Git API</string>
+    <string name="cep_label">CEP: %1$s</string>
+    <string name="logradouro_label">Logradouro: %1$s</string>
+    <string name="bairro_label">Bairro: %1$s</string>
+    <string name="localidade_label">Localidade: %1$s</string>
+    <string name="uf_label">UF: %1$s</string>
+    <string name="button_label">"Consultar CEP</string>
+    <string name="textedit_label">Digite o CEP</string>
+
+</resources>
