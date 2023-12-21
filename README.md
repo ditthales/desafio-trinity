@@ -21,7 +21,7 @@ O projeto consiste em um aplicativo android desenvolvido em Java, consumindo uma
 
 ## Demo
 
-[![Assista ao vídeo de demonstração]()](https://youtube.com/shorts/3V7gyElFeHQ)
+[Assista ao vídeo de demonstração](https://youtube.com/shorts/3V7gyElFeHQ)
 
 
 ## Instalação e teste
